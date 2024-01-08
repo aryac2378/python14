@@ -1,0 +1,3 @@
+What is the purpose continue statement in python?
+
+the purpose of continue statement is to to skip the remaining code inside a loop for the current iteration only.

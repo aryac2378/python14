@@ -1,0 +1,9 @@
+What are the types of Applications?
+
+Different types of applications are:
+Database apps
+Custom apps
+Web-based apps
+Low code apps
+No code apps
+Enterprise apps
